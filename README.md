@@ -1,6 +1,6 @@
--  Hi, I’m @WirllySilva;
-- I'm a Java student;
-- I started my journey in Feb 2023 and I'm really appreciating my adventure in the Java world;
+- Hi, I’m @WirllySilva;
+- I'm a Software Engineering Student;
+- I started my journey in Feb 2023 and I'm really appreciating my adventure in TI world;
 - For now, that's all.
 
 <!---
